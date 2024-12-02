@@ -1,5 +1,4 @@
 import { Navbar, Hero, Moresec } from "@/Components";
-import Image from "next/image";
 
 
 
